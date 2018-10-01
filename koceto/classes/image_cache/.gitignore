@@ -1,8 +1,0 @@
-*.tmp
-# docs
-# docs/*
-compressed
-compressed/*
-src/ImageCache/php-image-cache
-demo/images/cached
-/nbproject
